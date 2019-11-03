@@ -1,1 +1,1 @@
-$(body).attr('data-script', 'script_one_v_2');
+$(body).attr('data-script', 'script_one_v_3');
